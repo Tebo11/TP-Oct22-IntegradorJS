@@ -1,0 +1,42 @@
+.navarriba{
+    background-color: rgb(75, 75, 75);
+    
+}
+
+.aaa{
+    background-color: blue;
+    
+}
+
+.cards{
+    max-width: 14rem; 
+    border-radius: 0%;
+    text-align: center;
+    border-style: double;
+}
+
+.pdoc{
+   font-size:x-small ;
+   padding-top: 1rem;
+}
+
+.pagar{
+    border-radius: 0.5rem;
+    margin-left: 0.5rem;
+}
+
+.botonesverdes{
+    color: white;
+    background-color: rgb(151, 201, 62);
+    font-family: Arial, Helvetica, sans-serif;
+    width: 100%;
+    border-color: transparent;
+    padding: 0.5rem;
+    border-radius: 0.5rem;
+}
+
+.navfooter{
+    background-color: #315a6b;
+    
+}
+
