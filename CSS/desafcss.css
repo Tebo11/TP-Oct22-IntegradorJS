@@ -22,7 +22,7 @@
 
 .pagar{
     border-radius: 0.5rem;
-    margin-left: 0.5rem;
+    
     background-color: rgb(204, 229, 255);
 }
 
@@ -38,6 +38,18 @@
 
 .navfooter{
     background-color: #315a6b;
-    
+    padding: 1rem;    
 }
 
+.footerlink{
+    padding: 0.5rem;
+    text-decoration: none;
+    color: white;
+
+}
+
+.footerlink:hover{
+    text-decoration: none;
+    color: black;
+    font-style: oblique;
+}
